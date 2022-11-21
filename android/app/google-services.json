@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884680299967",
+    "project_id": "online-shopping-6340c",
+    "storage_bucket": "online-shopping-6340c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884680299967:android:3388608adccf13cef33d0a",
+        "android_client_info": {
+          "package_name": "com.example.udemy_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884680299967-glbbmbq84pmi0iatirv2tirt2ho082u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVwQydaSXKu01KrER7AqH9Yze-XYITJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884680299967-glbbmbq84pmi0iatirv2tirt2ho082u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
